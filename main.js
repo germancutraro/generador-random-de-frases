@@ -61,4 +61,4 @@ function rand () {
   }
 } // End rand function
 
-buttonCite.addEventListener('click', rand); // Call the function, in events yo cant do this rand() parenthesis no!
+buttonCite.addEventListener('click', rand); // Call the function, in events you can't do this -> rand() , parenthesis no!
